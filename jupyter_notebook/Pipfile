@@ -17,6 +17,8 @@ isort = "*"
 jupyterthemes = "*"
 yapf = "*"
 scipy = "*"
+pillow = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
